@@ -1,11 +1,11 @@
 import {useRoutes, BrowserRouter} from 'react-router-dom'
 import Home from '../Home'
 import MyAccount from '../MyAccount'
-import MyOrder from '../Myorder'
+import MyOrder from '../MyOrder'
 import MyOrders from '../MyOrders'
 import NotFound from '../NotFound'
 import SingIn from '../SingIn'
-import NavBar from '../../Components/Navbar'
+import NavBar from '../../Components/Navbar/Index'
 import './App.css'
 
 const AppRoutes = () => {
